@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "gam-casc-august-dev-controller"
+description: "CloudBees CI configuration bundle for the gam-casc-august dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/gam-casc-august/dev-controller"
+parent: "base"
